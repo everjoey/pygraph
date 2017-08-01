@@ -269,7 +269,7 @@ if __name__ == '__main__':
 	print(r1.keys() == r2.keys())
 	print(r2.keys() == r3.keys())
 
-
+        print()
 
 	'''
 	h1 = MinHeap([])
